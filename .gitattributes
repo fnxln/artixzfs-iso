@@ -1,0 +1,4 @@
+iso filter=lfs diff=lfs merge=lfs -text
+iso/artix-zfs-openrc-20200617-x86_64.iso filter=lfs diff=lfs merge=lfs -text
+iso/artix-zfs-runit-20200617-x86_64.iso filter=lfs diff=lfs merge=lfs -text
+iso/artix-zfs-s6-20200617-x86_64.iso filter=lfs diff=lfs merge=lfs -text
